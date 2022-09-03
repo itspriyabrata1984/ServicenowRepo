@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Git Servicenow Integration</description>
+        <device_type>browser</device_type>
+        <hint>Git Servicenow Integration</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-03 14:53:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b0eb0d88739551025c51f4bbbbb3594</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git_Servicenow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Git_Servicenow" source="e7cd74988739551025c51f4bbbbb35aa">e7cd74988739551025c51f4bbbbb35aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git_Servicenow">e7cd74988739551025c51f4bbbbb35aa</sys_scope>
+        <sys_update_name>sys_app_application_2b0eb0d88739551025c51f4bbbbb3594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-03 14:53:42</sys_updated_on>
+        <title>Git_Servicenow</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
